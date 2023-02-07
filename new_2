@@ -200,7 +200,7 @@
         <useBonuses>true</useBonuses>
         <rating>5.0</rating>
       </offer>
-      <offer id="333333-2" available="true" group_id="00003" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
+      <offer id="555555" available="true" group_id="00005" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
         <barcode>978020137965</barcode>
         <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
         <url>https://xxx.ru/xxx./</url>
@@ -227,7 +227,7 @@
         <useBonuses>true</useBonuses>
         <rating>4.5</rating>
       </offer>
-      <offer id="333333-3" available="true" group_id="00003" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
+      <offer id="555555-1" available="true" group_id="00005" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
         <barcode>978020137965</barcode>
         <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
         <url>https://xxx.ru/xxx./</url>
