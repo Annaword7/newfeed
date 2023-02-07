@@ -1,0 +1,20 @@
+POST /echo/post/json HTTP/1.1
+Host: reqbin.com
+Content-Type: application/vnd.api+json
+Accept: application/vnd.api+json
+Content-Length: 256
+
+{
+  "data": {
+    "type": "photos",
+    "attributes": {
+      "title": "John Smith",
+      "src": "//reqbin.com/images/john-smith.png"
+    },
+    "relationships": {
+      "photographer": {
+        "data": { "type": "people", "id": "1" }
+      }
+    }
+  }
+}
