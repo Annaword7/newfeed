@@ -7,6 +7,3 @@ post_params = {'user': 'admin', 'password': 'admin_pass1'}
 
 response = requests.post(url, data=post_params)
 response.json()
-
-
-
