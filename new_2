@@ -254,7 +254,7 @@
         <useBonuses>true</useBonuses>
         <rating>4.5</rating>
       </offer>
-      ...  <offer id="444444" available="true" group_id="00004" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
+      <offer id="444444" available="true" group_id="00004" sizeGridImage="https://static.insales-cdn.com/files/1/831/66367/original/Мужская_таблица_размеров.jpg">
         <barcode>978020137965</barcode>
         <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
         <url>https://xxx.ru/xxx./</url>
