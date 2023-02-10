@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<yml_catalog date="2033-02-07 17:22">
+  <shop>
+    <categories>
+      <category id="777" picture="https://clck.ru/33UKhX">Кроссовки</category>
+      <category id="888" picture="https://clck.ru/33UKkG">Ботинки</category>
+    </categories>
+    <offers>
+      <offer id="111111" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">бежевый</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKhX</picture>
+        <picture>https://clck.ru/33UKnU</picture>
+        <picture>https://clck.ru/33UZNW</picture>
+        <picture>https://clck.ru/33UZPh</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="111111-1" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">бежевый</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKhX</picture>
+        <picture>https://clck.ru/33UKnU</picture>
+        <picture>https://clck.ru/33UZNW</picture>
+        <picture>https://clck.ru/33UZPh</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="111111-2" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">41</param>
+        <param name="Цвет">бежевый</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKhX</picture>
+        <picture>https://clck.ru/33UKnU</picture>
+        <picture>https://clck.ru/33UZNW</picture>
+        <picture>https://clck.ru/33UZPh</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="111111-3" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">42</param>
+        <param name="Цвет">Бежевый</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKhX</picture>
+        <picture>https://clck.ru/33UKnU</picture>
+        <picture>https://clck.ru/33UZNW</picture>
+        <picture>https://clck.ru/33UZPh</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="222222" available="true" group_id="00002" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137963</barcode>
+        <name>Ретро кроссовки Nike Air Force 1 '07 серого и темно-синего цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>12900</price>
+        <oldprice>16500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Серый</param>
+        <param name="Цвет">Синий</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Эти кроссовки – самые продаваемые в истории бренда Nike! 37 лет назад дизайнер Брюс Килгор усовершенствовал баскетбольную обувь: расширил подошву для устойчивости, добавил липучку на щиколотку для защиты лодыжки, разработал подмётку с концентрическими кругами для лучшего сцепления с паркетом при разворотах, и внедрил в пятку воздушную подушку Air, тем самым совершив революцию в баскетбольной обуви. Также “Форсы” стали первыми баскетбольными кроссовками с цельной литой подошвой cupsole, что сказалось на их небывалой прочности. За основу силуэта Килгор взял трекинговые ботинки, потому что подобная обувь всегда славилась прочностью и практичностью.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKrz</picture>
+        <picture>https://clck.ru/33UKsm</picture>
+        <picture>https://clck.ru/33Vw23</picture>
+        <picture>https://clck.ru/33Vw48</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">37</param>
+        <param name="Цвет">Черный</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333-1" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет">Черный</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333-2" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Черный</param>
+        <param name="Подкладка">Текстиль</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="444444" available="true" group_id="00004" sizeGridImage="http://resizes.ru/wp-content/uploads/2018/08/Muzhskaya-tablitsa-razmerov-obuvi-ASOS.png">
+        <barcode>978020137965</barcode>
+        <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Asos Design</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натуральная кожа</param>
+        <description>Находка, достойная корзины. Выдвижной язычок, чтобы обуваться удобно, даже если у вас высокий подъем. Шнуровка позволяет комфортно регулировать плотность посадки. Стильный круглый носок и контрасная подошва.</description>
+        <rec title="Похожие товары">00005</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKkG</picture>
+        <picture>https://goo.su/36ue60b</picture>
+        <picture>https://goo.su/uOCYUbo</picture>
+        <picture>https://clck.ru/33UXxf</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="444444-1" available="true" group_id="00004" sizeGridImage="http://resizes.ru/wp-content/uploads/2018/08/Muzhskaya-tablitsa-razmerov-obuvi-ASOS.png">
+        <barcode>978020137965</barcode>
+        <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Asos Design</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">41</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натуральная кожа</param>
+        <description>Находка, достойная корзины. Выдвижной язычок, чтобы обуваться удобно, даже если у вас высокий подъем. Шнуровка позволяет комфортно регулировать плотность посадки. Стильный круглый носок и контрасная подошва.</description>
+        <rec title="Похожие товары">00005</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKkG</picture>
+        <picture>https://goo.su/36ue60b</picture>
+        <picture>https://goo.su/uOCYUbo</picture>
+        <picture>https://clck.ru/33UXxf</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://clck.ru/33UKyy</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555-1" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://clck.ru/33UKyy</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555-2" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://clck.ru/33UKyy</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
