@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<yml_catalog date="2033-02-07 17:22">
+  <shop>
+      <categories>
+      <category id="IB248"  picture="https://static.galaxystore.ru/local/templates/galaxystore/img/cat/Smartphones.png?1677667102">Смартфоны</category>
+      <category id="7118" parentId="IB248" >Galaxy Z Fold4</category>
+      <category id="777"  picture="https://clck.ru/33UKhX">Кроссовки</category>
+      <category id="888" picture="https://clck.ru/33UKkG">Ботинки</category>
+    </categories>
+    <offers>
+      <offer id="111111" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Бежевый с бордовым</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/vxi2CH4</picture>
+        <picture>https://goo.su/OV1Wnmi</picture>
+        <picture>https://goo.su/D1yPv</picture>
+        <picture>https://goo.su/gW9Y9zE</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="111111-1" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Бежевый с бордовым</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/vxi2CH4</picture>
+        <picture>https://goo.su/OV1Wnmi</picture>
+        <picture>https://goo.su/D1yPv</picture>
+        <picture>https://goo.su/gW9Y9zE</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="111111-3" available="true" group_id="00001" sizeGridImage="https://clck.ru/33UYuH">
+        <barcode>978020137962</barcode>
+        <name>Кроссовки New Balance 327 в белоснежном и бордовом цветах</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>11900</price>
+        <oldprice>15500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>New Balance</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">42</param>
+        <param name="Цвет">Бежевый с бордовым</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Автор дизайна New Balance 327 — девушка из Манчестера. Авторитетный журнал HYPEBEAST назвал New Balance «главным спортивным брендом 2020» и без силуэта под номером 327 это было бы невозможно. Взрывной успех New Balance 327 можно объяснить тем, что Шарлотт Ли сумела разработать кроссовки с очень гармоничным, выразительным внешним видом. В этой модели есть все, за что мир любит New Balance: благородное историческое наследие и продуманный дизайн, идеальная форма и актуальный крупный логотип.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/vxi2CH4</picture>
+        <picture>https://goo.su/OV1Wnmi</picture>
+        <picture>https://goo.su/D1yPv</picture>
+        <picture>https://goo.su/gW9Y9zE</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="222222" available="true" group_id="00002" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137963</barcode>
+        <name>Ретро кроссовки Nike Air Force 1 '07 серого и темно-синего цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>12900</price>
+        <oldprice>16500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Серый</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Эти кроссовки – самые продаваемые в истории бренда Nike! 37 лет назад дизайнер Брюс Килгор усовершенствовал баскетбольную обувь: расширил подошву для устойчивости, добавил липучку на щиколотку для защиты лодыжки, разработал подмётку с концентрическими кругами для лучшего сцепления с паркетом при разворотах, и внедрил в пятку воздушную подушку Air, тем самым совершив революцию в баскетбольной обуви. Также “Форсы” стали первыми баскетбольными кроссовками с цельной литой подошвой cupsole, что сказалось на их небывалой прочности. За основу силуэта Килгор взял трекинговые ботинки, потому что подобная обувь всегда славилась прочностью и практичностью.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKrz</picture>
+        <picture>https://clck.ru/33UKsm</picture>
+        <picture>https://clck.ru/33Vw23</picture>
+        <picture>https://clck.ru/33Vw48</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="222222-1" available="true" group_id="00002" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137963</barcode>
+        <name>Ретро кроссовки Nike Air Force 1 '07 серого и темно-синего цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>1</sort>
+        <price>12900</price>
+        <oldprice>16500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <categoryId>777</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Серый</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натураьная кожа</param>
+        <description>Эти кроссовки – самые продаваемые в истории бренда Nike! 37 лет назад дизайнер Брюс Килгор усовершенствовал баскетбольную обувь: расширил подошву для устойчивости, добавил липучку на щиколотку для защиты лодыжки, разработал подмётку с концентрическими кругами для лучшего сцепления с паркетом при разворотах, и внедрил в пятку воздушную подушку Air, тем самым совершив революцию в баскетбольной обуви. Также “Форсы” стали первыми баскетбольными кроссовками с цельной литой подошвой cupsole, что сказалось на их небывалой прочности. За основу силуэта Килгор взял трекинговые ботинки, потому что подобная обувь всегда славилась прочностью и практичностью.</description>
+        <rec title="Похожие товары">00002, 00003</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ЛЕГЕНДА</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKrz</picture>
+        <picture>https://clck.ru/33UKsm</picture>
+        <picture>https://clck.ru/33Vw23</picture>
+        <picture>https://clck.ru/33Vw48</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">37</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333-1" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="333333-2" available="true" group_id="00003" sizeGridImage="https://clck.ru/33UXj2">
+        <barcode>978020137964</barcode>
+        <name>Кроссовки Jordan AJ 1 с низкой посадкой в черно-красном цвете</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>2</sort>
+        <price>11500</price>
+        <oldprice>14500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Nike</vendor>
+        <vendorCode>0000-777</vendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">65% Натураьная кожа, 35% Текстиль</param>
+        <description>Мужские кроссовки Air Jordan 1 Low созданы по мотивам легендарных AJ1 1985 года. Входят в категорию лайфстайл, минималистичный силуэт с низким верхом делает их отличным вариантом на каждый день. Фирменный узнаваемый дизайн и исключительная амортизация Nike Air — идеальная комбинация стиля и комфорта.</description>
+        <rec title="Похожие товары">00001, 00002</rec>
+        <rec title="Дополни образ">00004, 00005</rec>
+        <badge textColor="#000" bgColor="#CCFF33">ХИТ ПРОДАЖ</badge>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UZUj</picture>
+        <picture>https://goo.su/FXC05</picture>
+        <picture>https://clck.ru/33UZVt</picture>
+        <picture>https://clck.ru/33UZTj</picture>
+        <useBonuses>true</useBonuses>
+        <rating>5.0</rating>
+      </offer>
+      <offer id="444444" available="true" group_id="00004" sizeGridImage="http://resizes.ru/wp-content/uploads/2018/08/Muzhskaya-tablitsa-razmerov-obuvi-ASOS.png">
+        <barcode>978020137965</barcode>
+        <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Asos Design</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натуральная кожа</param>
+        <description>Находка, достойная корзины. Выдвижной язычок, чтобы обуваться удобно, даже если у вас высокий подъем. Шнуровка позволяет комфортно регулировать плотность посадки. Стильный круглый носок и контрасная подошва.</description>
+        <rec title="Похожие товары">00005</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKkG</picture>
+        <picture>https://goo.su/36ue60b</picture>
+        <picture>https://goo.su/uOCYUbo</picture>
+        <picture>https://clck.ru/33UXxf</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="444444-1" available="true" group_id="00004" sizeGridImage="http://resizes.ru/wp-content/uploads/2018/08/Muzhskaya-tablitsa-razmerov-obuvi-ASOS.png">
+        <barcode>978020137965</barcode>
+        <name>Ботинки на шнуровке из черной кожи с белой подошвой</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Asos Design</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">41</param>
+        <param name="Цвет">Черный</param>
+        <param name="Материал подошвы">Каучук</param>
+        <param name="Материал верха">Натуральная кожа</param>
+        <description>Находка, достойная корзины. Выдвижной язычок, чтобы обуваться удобно, даже если у вас высокий подъем. Шнуровка позволяет комфортно регулировать плотность посадки. Стильный круглый носок и контрасная подошва.</description>
+        <rec title="Похожие товары">00005</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://clck.ru/33UKkG</picture>
+        <picture>https://goo.su/36ue60b</picture>
+        <picture>https://goo.su/uOCYUbo</picture>
+        <picture>https://clck.ru/33UXxf</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://goo.su/PF0BXO</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555-1" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://goo.su/PF0BXO</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer>
+      <offer id="555555-2" available="true" group_id="00005" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Утепленные водонепроницаемые ботинки North Face Nuptse II черного цвета</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>19500</price>
+        <oldprice>22500</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>North Face</vendor>
+        <vendorCode>0000-999</vendorCode>
+        <categoryId>888</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет">Серый</param>
+        <param name="Наполнитель">100% пух</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <description>Обновленная версия культовых ботинок Nuptse Booties — пуховое одеяло на ваших ногах. Легкая и теплая модель согреет во время путешествий или прогулок. ВОДОНЕПРОНИЦАЕМАЯ МЕМБРАНА Мембрана DryVent гарантирует защиту от промокания и поддерживает комфортный микроклимат.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/D5u7Bb</picture>
+        <picture>https://goo.su/PF0BXO</picture>
+        <picture>https://clck.ru/33UKzo</picture>
+        <picture>https://clck.ru/33UYb4</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.7</rating>
+      </offer> 
+      <offer id="777777" available="true" group_id="00007" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-777-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет" hex="#cb3d2b">Оранжевый</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00008</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/y1Dw</picture>
+        <picture>https://goo.su/zpGF</picture>
+        <picture>https://goo.su/BkfpI</picture>
+        <picture>https://goo.su/GXUr5</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      <offer id="777777-1" available="true" group_id="00007" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-777-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет" hex="#cb3d2b">Оранжевый</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00008</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/y1Dw</picture>
+        <picture>https://goo.su/zpGF</picture>
+        <picture>https://goo.su/BkfpI</picture>
+        <picture>https://goo.su/GXUr5</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      <offer id="777777-2" available="true" group_id="00007" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-777-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет" hex="#cb3d2b">Оранжевый</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00008</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/y1Dw</picture>
+        <picture>https://goo.su/zpGF</picture>
+        <picture>https://goo.su/BkfpI</picture>
+        <picture>https://goo.su/GXUr5</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      <offer id="8888888" available="true" group_id="00008" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-888-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">38</param>
+        <param name="Цвет" hex="#00a4e9">Голубой</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00007</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/k5rhA7E</picture>
+        <picture>https://goo.su/XLRhKWs</picture>
+        <picture>https://goo.su/tjvZ7MV</picture>
+        <picture>https://goo.su/LY6XQXy</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      <offer id="8888888-1" available="true" group_id="00008" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-888-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">39</param>
+        <param name="Цвет" hex="#00a4e9">Голубой</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00007</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/k5rhA7E</picture>
+        <picture>https://goo.su/XLRhKWs</picture>
+        <picture>https://goo.su/tjvZ7MV</picture>
+        <picture>https://goo.su/LY6XQXy</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      <offer id="8888888-2" available="true" group_id="00008" sizeGridImage="https://clck.ru/33UZb8">
+        <barcode>978020137965</barcode>
+        <name>Кеды Adidas Originals Gazelle</name>
+        <url>https://xxx.ru/xxx./</url>
+        <sort>3</sort>
+        <price>12500</price>
+        <oldprice>15000</oldprice>
+        <priceUnits>шт</priceUnits>
+        <currencyId>RUB</currencyId>
+        <saleEndsDateIso>2033-11-12T14:37:38</saleEndsDateIso>
+        <vendor>Adidas</vendor>
+        <vendorCode>0000-888-1</vendorCode>
+        <parentVendorCode>adidasgaz</parentVendorCode>
+        <categoryId>777</categoryId>
+        <param name="Размер">40</param>
+        <param name="Цвет" hex="#00a4e9">Голубой</param>
+        <param name="Материал подошвы">Резина</param>
+        <param name="Материал верха">Текстиль</param>
+        <othercolors>00007</othercolors>
+        <description>Без прошлого нет будущего — уже несколько лет к ряду adidas умудряются создавать прорывные футуристичные модели и одновременно воскрешать интерес к классическим силуэтам. В последнем направлении наиболее популярными, пожалуй, являются неустаревающие Stan Smith и adidas Gazelle.</description>
+        <rec title="Похожие товары">00004</rec>
+        <rec title="Дополни образ">00001, 00002, 00003</rec>
+        <vat>vat_20</vat>
+        <picture>https://goo.su/k5rhA7E</picture>
+        <picture>https://goo.su/XLRhKWs</picture>
+        <picture>https://goo.su/tjvZ7MV</picture>
+        <picture>https://goo.su/LY6XQXy</picture>
+        <useBonuses>true</useBonuses>
+        <rating>4.8</rating>
+      </offer>
+      
+      
+      
+    <offer id="3845330" type="vendor.model" group_id="999999" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+                                    <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/4a4/1000_1000_0/4a498cf7a6b7c5292815cdb5bf8ea08a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e37/1000_1000_0/e3756a7912c0cbddfa10b7149643f54a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/2cf/1000_1000_0/2cf115efee20e5196ad626cea0b155ba.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d83/1000_1000_0/d83f14f10591b65acb457e6202de3065.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d87/1000_1000_0/d87aeb7f84d269ca0e6b80f2b0646caa.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9f8/1000_1000_0/9f806444a3890e37160b3532150a3bcc.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/39e/1000_1000_0/39ea03a2341d6fc637ecfa8cfa8c6937.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/86b/1000_1000_0/86b1f2eb4261bbcc524ccb1f0f49fdbf.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/73f/1000_1000_0/73fc7036447775b3bdc0a8278a663140.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b95/1000_1000_0/b95aa1675037b8069b51f29795a087e4.jpeg</picture>
+                
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ, черный фантом (SM-F936BZKCGLB)</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#000">черный</param>
+        </offer>
+        <offer id="3845330-1" type="vendor.model" group_id="999999-1" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+                                    <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/4a4/1000_1000_0/4a498cf7a6b7c5292815cdb5bf8ea08a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e37/1000_1000_0/e3756a7912c0cbddfa10b7149643f54a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/2cf/1000_1000_0/2cf115efee20e5196ad626cea0b155ba.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d83/1000_1000_0/d83f14f10591b65acb457e6202de3065.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d87/1000_1000_0/d87aeb7f84d269ca0e6b80f2b0646caa.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9f8/1000_1000_0/9f806444a3890e37160b3532150a3bcc.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/39e/1000_1000_0/39ea03a2341d6fc637ecfa8cfa8c6937.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/86b/1000_1000_0/86b1f2eb4261bbcc524ccb1f0f49fdbf.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/73f/1000_1000_0/73fc7036447775b3bdc0a8278a663140.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b95/1000_1000_0/b95aa1675037b8069b51f29795a087e4.jpeg</picture>
+                
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ, черный фантом (SM-F936BZKCGLB)</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#000">черный</param>
+        </offer>
+        <offer id="3845330-2" type="vendor.model" group_id="999999-2" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+                                    <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/4a4/1000_1000_0/4a498cf7a6b7c5292815cdb5bf8ea08a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e37/1000_1000_0/e3756a7912c0cbddfa10b7149643f54a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/2cf/1000_1000_0/2cf115efee20e5196ad626cea0b155ba.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d83/1000_1000_0/d83f14f10591b65acb457e6202de3065.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d87/1000_1000_0/d87aeb7f84d269ca0e6b80f2b0646caa.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9f8/1000_1000_0/9f806444a3890e37160b3532150a3bcc.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/39e/1000_1000_0/39ea03a2341d6fc637ecfa8cfa8c6937.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/86b/1000_1000_0/86b1f2eb4261bbcc524ccb1f0f49fdbf.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/73f/1000_1000_0/73fc7036447775b3bdc0a8278a663140.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b95/1000_1000_0/b95aa1675037b8069b51f29795a087e4.jpeg</picture>
+                
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ, черный фантом (SM-F936BZKCGLB)</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#000">черный</param>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>
