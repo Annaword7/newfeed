@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2033-02-07 17:22">
+    <shop>
+        <categories>
+            <category id="IB248"
+                picture="https://static.galaxystore.ru/local/templates/galaxystore/img/cat/Smartphones.png?1677667102">
+                Смартфоны</category>
+            <category id="7118" parentId="IB248">Galaxy Z Fold4</category>
+        </categories>
+        <offers>
+            <offer id="3817396" type="vendor.model" group_id="1" available="true"
+                ios="false">
+                <url>https://galaxystore.ru/product/SM-F936BZEBCAU/</url>
+                <vat>VAT_20</vat>
+                <price>134990</price>
+                <purchasable>true</purchasable>
+                <oldprice>169990</oldprice>
+                <currencyId>RUR</currencyId>
+                <categoryId>7118</categoryId>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/1f6/1000_1000_0/1f6fec1ea338eff109428fa206292189.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/ef0/1000_1000_0/ef0912b1cce74a8ac056bdd91a326eae.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/852/1000_1000_0/852d8414a760a9d0e48d9df01a2b25d3.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/ddb/1000_1000_0/ddb0565df4ad3c89f67d0fc234b453bd.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/1d5/1000_1000_0/1d5de34f2d8919687a97bbf76b327917.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/8f1/1000_1000_0/8f1affd816d470d91d51f7a8f89dd2a7.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/7ea/1000_1000_0/7ea120a85ebf604c7cb596b19e7921b5.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/f31/1000_1000_0/f310541ade729c41cc18b6deb3d4279a.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/314/1000_1000_0/314f9b7ce1493a0efef5347496b0786d.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/bf0/1000_1000_0/bf031875dc63ebb32796086a735f206a.jpg</picture>
+
+                <sapId>000000000000187114</sapId>
+                <vendor>Samsung</vendor>
+                <vendorCode>SM-F936BZEBCAU</vendorCode>
+                <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                <model>Смартфон Samsung Galaxy Z Fold4 256 ГБ, бежевый (SM-F936BZEBCAU)</model>
+                <richDescription></richDescription>
+                <barcode>8806094523966</barcode>
+                <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+                <param name="Версия">CAU</param>
+                <param name="Модель">
+                    Galaxy Z Fold4 256 ГБ </param>
+                <param name="Цвет" hex="#faebd7">бежевый</param>
+                <param name="Категория товара">
+                    Смартфон </param>
+                <param name="Статус товара">Распродажа</param>
+                <badge textColor="#ffffff" bgColor="#1428a0">0-0-6</badge>
+                <useBonuses>true</useBonuses>
+                <param name="Объем накопителя">
+                    256 ГБ </param>
+                <param name="Оперативная память, ГБ">
+                    12 </param>
+                <param name="Встроенная память, ГБ">
+                    256 </param>
+                <param name="Диагональ экрана, дюйм">
+                    7.6 </param>
+                <param name="Разрешение экрана, пикс">
+                    2176 x 1812 </param>
+                <param name="Разрешение основной камеры, МП">
+                    12+50+10 </param>
+                <param name="Разрешение фронтальной камеры, МП">
+                    4 </param>
+                <param name="Емкость аккумулятора, мАч">
+                    4400 </param>
+                <param name="Исключения в imshop">
+                    Не для iOS </param>
+                <rec title="С этим товаром покупают">3817397,3817398,3844896,3844904,3844912,3845330</rec>
+                <sort>500</sort>
+            </offer>
+            <offer id="3852161" type="vendor.model" group_id="1" available="true"
+                ios="false">
+                <url>https://galaxystore.ru/product/SM-F936BZEDGLB/</url>
+                <vat>VAT_20</vat>
+                <price>134990</price>
+                <purchasable>true</purchasable>
+                <currencyId>RUR</currencyId>
+                <categoryId>7118</categoryId>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/281/281437f93befcf1026ea0802d76e6f67.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/16d/16d386830f5e978487803399d2200144.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/e13/e1319b2e15f08cb124fb71a0a09c927c.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/82d/82d109e5d4ccd640c774af720624d5da.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/d66/d66d92d5e070b0496bbef1eff75bbd19.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/7cb/7cbb826fef365d69e059cf325dcd7f15.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/d59/d59a81a9f764f4f8a38e7d0868b15b70.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/0ad/0ad7362a438101bcbfd011dacaf49287.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/ce6/ce698fd01bae202c13abe894c5f0f6d0.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/a50/a5032b56f245af131b79b5d0469102da.jpeg</picture>
+
+                <sapId>000000000000194744</sapId>
+                <vendor>Samsung</vendor>
+                <vendorCode>SM-F936BZEDGLB</vendorCode>
+                <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                <model>Смартфон Samsung Galaxy Z Fold4 256 ГБ, бежевый (SM-F936BZEDGLB)</model>
+                <richDescription></richDescription>
+                <barcode>8806094495058</barcode>
+                <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+                <param name="Версия">GLB</param>
+                <param name="Модель">
+                    Galaxy Z Fold4 256 ГБ </param>
+                <param name="Цвет" hex="#faebd7">бежевый</param>
+                <param name="Категория товара">
+                    Смартфон </param>
+                <badge textColor="#FFF" bgColor="#F5A623">Новинка</badge>
+                <useBonuses>true</useBonuses>
+                <param name="Объем накопителя">
+                    256 ГБ </param>
+                <param name="Оперативная память, ГБ">
+                    12 </param>
+                <param name="Встроенная память, ГБ">
+                    256 </param>
+                <param name="Диагональ экрана, дюйм">
+                    7.6 </param>
+                <param name="Разрешение экрана, пикс">
+                    2176 x 1812 </param>
+                <param name="Разрешение основной камеры, МП">
+                    12+50+10 </param>
+                <param name="Разрешение фронтальной камеры, МП">
+                    4 </param>
+                <param name="Емкость аккумулятора, мАч">
+                    4400 </param>
+                <param name="Исключения в imshop">
+                    Не для iOS </param>
+                <rec title="С этим товаром покупают">3817396,3817397,3817398,3844896,3844904,3844912</rec>
+                <sort>500</sort>
+            </offer>
+            <offer id="3852174" type="vendor.model" group_id="2" available="true"
+                ios="false">
+                <url>https://galaxystore.ru/product/SM-F936BZADGLB/</url>
+                <vat>VAT_20</vat>
+                <price>134990</price>
+                <purchasable>true</purchasable>
+                <currencyId>RUR</currencyId>
+                <categoryId>7118</categoryId>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/16d/16d8710e975d47b550e7388332c9a552.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/46f/46f99d5b652a66cbf6cd7469778bf7d6.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/1f6/1f605b9ce3f57ba932146f7c2ecad793.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/588/58823f8cddb0e6e64c4db08869e82dfe.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/733/7338f4f7cd705c9c45803a516bbd460e.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/78b/78b0700703ded638d762ca405e8b546f.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/481/48102a1f7d9ab5462cc4d427052efa49.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/3da/3da70d750740879621b8b15bfd8b9a24.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/578/578cd5c3dc63d2f5ac11294918f2ab51.jpeg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/iblock/018/01830f7e5a9d0999eb95070c2cc68a86.jpeg</picture>
+
+                <sapId>000000000000194751</sapId>
+                <vendor>Samsung</vendor>
+                <vendorCode>SM-F936BZADGLB</vendorCode>
+                <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                <model>Смартфон Samsung Galaxy Z Fold4 256 ГБ, графит (SM-F936BZADGLB)</model>
+                <richDescription></richDescription>
+                <barcode>8806094495188</barcode>
+                <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+                <param name="Версия">GLB</param>
+                <param name="Модель">
+                    Galaxy Z Fold4 256 ГБ </param>
+                <param name="Цвет" hex="#3e3e3e">графит</param>
+                <param name="Категория товара">
+                    Смартфон </param>
+                <badge textColor="#FFF" bgColor="#F5A623">Новинка</badge>
+                <useBonuses>true</useBonuses>
+                <param name="Объем накопителя">
+                    256 ГБ </param>
+                <param name="Оперативная память, ГБ">
+                    12 </param>
+                <param name="Встроенная память, ГБ">
+                    256 </param>
+                <param name="Диагональ экрана, дюйм">
+                    7.6 </param>
+                <param name="Разрешение экрана, пикс">
+                    2176 x 1812 </param>
+                <param name="Разрешение основной камеры, МП">
+                    12+50+10 </param>
+                <param name="Разрешение фронтальной камеры, МП">
+                    4 </param>
+                <param name="Емкость аккумулятора, мАч">
+                    4400 </param>
+                <param name="Исключения в imshop">
+                    Не для iOS </param>
+                <rec title="С этим товаром покупают">3817396,3817397,3817398,3844896,3844904,3844912</rec>
+                <sort>500</sort>
+            </offer>
+            <offer id="3817398" type="vendor.model" group_id="2" available="true"
+                ios="false">
+                <url>https://galaxystore.ru/product/SM-F936BZABCAU/</url>
+                <vat>VAT_20</vat>
+                <price>134990</price>
+                <purchasable>true</purchasable>
+                <oldprice>169990</oldprice>
+                <currencyId>RUR</currencyId>
+                <categoryId>7118</categoryId>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/8ff/1000_1000_0/8ffbb36867623258f11c03cc1ce08691.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/d89/1000_1000_0/d897ab6c13443318b394ea460ab604d8.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/fe4/1000_1000_0/fe467da82bff1c7109a9f6244d9242ad.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/24d/1000_1000_0/24db303666f6288ddd2fe280dc41f98b.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/7ea/1000_1000_0/7ea138216f2a277f8cbf1e015e1d7621.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/026/1000_1000_0/0267356e143159930323a2be21012a18.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/9ab/1000_1000_0/9ab8560085462cfa41724d6b369f8bf8.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/b38/1000_1000_0/b388b86b2ad0f327edb8e835153a70cc.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/9ca/1000_1000_0/9ca9b8fef1177597a25ba4da5dff9b84.jpg</picture>
+                <picture>
+                    https://static.galaxystore.ru/upload/resize_cache/iblock/d1e/1000_1000_0/d1e50b0994aa5bad6ad5b1792ee859ec.jpg</picture>
+
+                <sapId>000000000000187116</sapId>
+                <vendor>Samsung</vendor>
+                <vendorCode>SM-F936BZABCAU</vendorCode>
+                <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                <model>Смартфон Samsung Galaxy Z Fold4 256 ГБ, графит (SM-F936BZABCAU)</model>
+                <richDescription></richDescription>
+                <barcode>8806094524116</barcode>
+                <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+                <param name="Версия">CAU</param>
+                <param name="Модель">
+                    Galaxy Z Fold4 256 ГБ </param>
+                <param name="Цвет" hex="#3e3e3e">графит</param>
+                <param name="Категория товара">
+                    Смартфон </param>
+                <param name="Статус товара">Распродажа</param>
+                <badge textColor="#ffffff" bgColor="#1428a0">0-0-6</badge>
+                <useBonuses>true</useBonuses>
+                <param name="Объем накопителя">
+                    256 ГБ </param>
+                <param name="Оперативная память, ГБ">
+                    12 </param>
+                <param name="Встроенная память, ГБ">
+                    256 </param>
+                <param name="Диагональ экрана, дюйм">
+                    7.6 </param>
+                <param name="Разрешение экрана, пикс">
+                    2176 x 1812 </param>
+                <param name="Разрешение основной камеры, МП">
+                    12+50+10 </param>
+                <param name="Разрешение фронтальной камеры, МП">
+                    4 </param>
+                <param name="Емкость аккумулятора, мАч">
+                    4400 </param>
+                <param name="Исключения в imshop">
+                    Не для iOS </param>
+                <rec title="С этим товаром покупают">3817396,3817397,3844896,3844904,3844912,3845330</rec>
+                <sort>500</sort>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
