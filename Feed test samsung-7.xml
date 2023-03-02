@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<yml_catalog date="2033-02-07 17:22">
+  <shop>
+      <categories>
+      <category id="IB248"  picture="https://static.galaxystore.ru/local/templates/galaxystore/img/cat/Smartphones.png?1677667102">Смартфоны</category>
+      <category id="7118" parentId="IB248" >Galaxy Z Fold4</category>
+    </categories>
+    <offers>
+    <offer id="3845330" type="vendor.model" group_id="999999" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+                                    <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/4a4/1000_1000_0/4a498cf7a6b7c5292815cdb5bf8ea08a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e37/1000_1000_0/e3756a7912c0cbddfa10b7149643f54a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/2cf/1000_1000_0/2cf115efee20e5196ad626cea0b155ba.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d83/1000_1000_0/d83f14f10591b65acb457e6202de3065.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d87/1000_1000_0/d87aeb7f84d269ca0e6b80f2b0646caa.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9f8/1000_1000_0/9f806444a3890e37160b3532150a3bcc.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/39e/1000_1000_0/39ea03a2341d6fc637ecfa8cfa8c6937.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/86b/1000_1000_0/86b1f2eb4261bbcc524ccb1f0f49fdbf.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/73f/1000_1000_0/73fc7036447775b3bdc0a8278a663140.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b95/1000_1000_0/b95aa1675037b8069b51f29795a087e4.jpeg</picture>
+                
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ бежевый</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#faebd7">бежевый</param>
+            <param name="Версия">GLB</param>
+        </offer>
+        <offer id="3845330" type="vendor.model" group_id="999999" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+                                    <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/4a4/1000_1000_0/4a498cf7a6b7c5292815cdb5bf8ea08a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/e37/1000_1000_0/e3756a7912c0cbddfa10b7149643f54a.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/2cf/1000_1000_0/2cf115efee20e5196ad626cea0b155ba.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d83/1000_1000_0/d83f14f10591b65acb457e6202de3065.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/d87/1000_1000_0/d87aeb7f84d269ca0e6b80f2b0646caa.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9f8/1000_1000_0/9f806444a3890e37160b3532150a3bcc.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/39e/1000_1000_0/39ea03a2341d6fc637ecfa8cfa8c6937.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/86b/1000_1000_0/86b1f2eb4261bbcc524ccb1f0f49fdbf.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/73f/1000_1000_0/73fc7036447775b3bdc0a8278a663140.jpeg</picture>
+                                        <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b95/1000_1000_0/b95aa1675037b8069b51f29795a087e4.jpeg</picture>
+                
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ бежевый</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#faebd7">бежевый</param>
+            <param name="Версия">EAK</param>
+        </offer>
+        <offer id="3845330-1" type="vendor.model" group_id="999999-1" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+            <picture>https://static.galaxystore.ru/upload/iblock/281/281437f93befcf1026ea0802d76e6f67.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/16d/16d386830f5e978487803399d2200144.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/e13/e1319b2e15f08cb124fb71a0a09c927c.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/82d/82d109e5d4ccd640c774af720624d5da.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/d66/d66d92d5e070b0496bbef1eff75bbd19.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/7cb/7cbb826fef365d69e059cf325dcd7f15.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/d59/d59a81a9f764f4f8a38e7d0868b15b70.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/0ad/0ad7362a438101bcbfd011dacaf49287.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/ce6/ce698fd01bae202c13abe894c5f0f6d0.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/a50/a5032b56f245af131b79b5d0469102da.jpeg</picture>  
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ графитовый</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#3e3e3e">графит</param>
+            <param name="Версия">GLB</param>
+        </offer>
+
+        <offer id="3845330-2" type="vendor.model" group_id="999999-1" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+            <picture>https://static.galaxystore.ru/upload/iblock/281/281437f93befcf1026ea0802d76e6f67.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/16d/16d386830f5e978487803399d2200144.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/e13/e1319b2e15f08cb124fb71a0a09c927c.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/82d/82d109e5d4ccd640c774af720624d5da.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/d66/d66d92d5e070b0496bbef1eff75bbd19.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/7cb/7cbb826fef365d69e059cf325dcd7f15.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/d59/d59a81a9f764f4f8a38e7d0868b15b70.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/0ad/0ad7362a438101bcbfd011dacaf49287.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/ce6/ce698fd01bae202c13abe894c5f0f6d0.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/iblock/a50/a5032b56f245af131b79b5d0469102da.jpeg</picture>  
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ графитовый</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#3e3e3e">графит</param>
+            <param name="Версия">GLB</param>
+        </offer>
+        
+
+        <offer id="3845330-3" type="vendor.model" group_id="999999-1" available="true"
+        ios="false"                                    >
+        <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+        <vat>VAT_20</vat>
+        <price>144990</price>
+        <purchasable>true</purchasable>
+                                <oldprice>179990</oldprice>
+                            <currencyId>RUR</currencyId>
+        <categoryId>7118</categoryId>
+        <picture>https://static.galaxystore.ru/upload/iblock/281/281437f93befcf1026ea0802d76e6f67.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/16d/16d386830f5e978487803399d2200144.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/e13/e1319b2e15f08cb124fb71a0a09c927c.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/82d/82d109e5d4ccd640c774af720624d5da.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/d66/d66d92d5e070b0496bbef1eff75bbd19.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/7cb/7cbb826fef365d69e059cf325dcd7f15.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/d59/d59a81a9f764f4f8a38e7d0868b15b70.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/0ad/0ad7362a438101bcbfd011dacaf49287.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/ce6/ce698fd01bae202c13abe894c5f0f6d0.jpeg</picture>
+        <picture>https://static.galaxystore.ru/upload/iblock/a50/a5032b56f245af131b79b5d0469102da.jpeg</picture>  
+        <sapId>000000000000193914</sapId>
+                            <vendor>Samsung</vendor>
+        <vendorCode>SM-F936BZKCGLB</vendorCode>
+        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                    <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+        <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ графитовый)</model>
+        <barcode>8806094504613</barcode>
+        <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+        <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+        <param name="Цвет" hex="#3e3e3e">графит</param>
+        <param name="Версия">EAK</param>
+    </offer>
+        <offer id="3845330-4" type="vendor.model" group_id="999999-2" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/292/1000_1000_0/2922cc1ec8561647b305ab93e330d68e.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9ee/1000_1000_0/9ee4112bb869ac5ee5e4b382cc7fa9a2.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b89/1000_1000_0/b89e4551f87cb9412cff8b27422e8819.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b48/1000_1000_0/b48ad7d713b29980cd4808184ca5b0cf.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/11e/1000_1000_0/11ed1932ca6a8281737a45e400660c38.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/019/1000_1000_0/019a989501e0bcd3c7bdc5b0eef9b727.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/93d/1000_1000_0/93d2538985d00d3e2fb9a20e5eb2af63.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/a41/1000_1000_0/a411e60d80bacd407f152699ebddaaea.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/125/1000_1000_0/12508b3af92947381bb6f28ec10818cd.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/16b/1000_1000_0/16b7764a773720756cadf7463c45b1d2.jpeg</picture>
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ черный</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#000">черный</param>
+            <param name="Версия">EAK</param>
+        </offer>
+        <offer id="3845330-5" type="vendor.model" group_id="999999-2" available="true"
+            ios="false"                                    >
+            <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+            <vat>VAT_20</vat>
+            <price>144990</price>
+            <purchasable>true</purchasable>
+                                    <oldprice>179990</oldprice>
+                                <currencyId>RUR</currencyId>
+            <categoryId>7118</categoryId>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/292/1000_1000_0/2922cc1ec8561647b305ab93e330d68e.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9ee/1000_1000_0/9ee4112bb869ac5ee5e4b382cc7fa9a2.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b89/1000_1000_0/b89e4551f87cb9412cff8b27422e8819.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b48/1000_1000_0/b48ad7d713b29980cd4808184ca5b0cf.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/11e/1000_1000_0/11ed1932ca6a8281737a45e400660c38.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/019/1000_1000_0/019a989501e0bcd3c7bdc5b0eef9b727.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/93d/1000_1000_0/93d2538985d00d3e2fb9a20e5eb2af63.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/a41/1000_1000_0/a411e60d80bacd407f152699ebddaaea.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/125/1000_1000_0/12508b3af92947381bb6f28ec10818cd.jpeg</picture>
+            <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/16b/1000_1000_0/16b7764a773720756cadf7463c45b1d2.jpeg</picture>
+            <sapId>000000000000193914</sapId>
+                                <vendor>Samsung</vendor>
+            <vendorCode>SM-F936BZKCGLB</vendorCode>
+            <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                        <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+            <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ, черный фантом (SM-F936BZKCGLB)</model>
+            <barcode>8806094504613</barcode>
+            <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+            <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+            <param name="Цвет" hex="#000">черный</param>
+            <param name="Размер">различающийся параметр 2</param>
+        </offer>
+      </offer>
+      <offer id="3845330-4" type="vendor.model" group_id="999999-2" available="true"
+          ios="false"                                    >
+          <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+          <vat>VAT_20</vat>
+          <price>144990</price>
+          <purchasable>true</purchasable>
+                                  <oldprice>179990</oldprice>
+                              <currencyId>RUR</currencyId>
+          <categoryId>7118</categoryId>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/292/1000_1000_0/2922cc1ec8561647b305ab93e330d68e.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9ee/1000_1000_0/9ee4112bb869ac5ee5e4b382cc7fa9a2.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b89/1000_1000_0/b89e4551f87cb9412cff8b27422e8819.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b48/1000_1000_0/b48ad7d713b29980cd4808184ca5b0cf.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/11e/1000_1000_0/11ed1932ca6a8281737a45e400660c38.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/019/1000_1000_0/019a989501e0bcd3c7bdc5b0eef9b727.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/93d/1000_1000_0/93d2538985d00d3e2fb9a20e5eb2af63.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/a41/1000_1000_0/a411e60d80bacd407f152699ebddaaea.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/125/1000_1000_0/12508b3af92947381bb6f28ec10818cd.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/16b/1000_1000_0/16b7764a773720756cadf7463c45b1d2.jpeg</picture>
+          <sapId>000000000000193914</sapId>
+                              <vendor>Samsung</vendor>
+          <vendorCode>SM-F936BZKCGLB</vendorCode>
+          <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                      <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+          <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ черный</model>
+          <barcode>8806094504613</barcode>
+          <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+          <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+          <param name="Цвет" hex="#000">черный</param>
+          <param name="Версия">GLB</param>
+      </offer>
+      <offer id="3845330-5" type="vendor.model" group_id="999999-2" available="true"
+          ios="false"                                    >
+          <url>https://galaxystore.ru/product/SM-F936BZKCGLB/</url>
+          <vat>VAT_20</vat>
+          <price>144990</price>
+          <purchasable>true</purchasable>
+                                  <oldprice>179990</oldprice>
+                              <currencyId>RUR</currencyId>
+          <categoryId>7118</categoryId>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/292/1000_1000_0/2922cc1ec8561647b305ab93e330d68e.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/9ee/1000_1000_0/9ee4112bb869ac5ee5e4b382cc7fa9a2.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b89/1000_1000_0/b89e4551f87cb9412cff8b27422e8819.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/b48/1000_1000_0/b48ad7d713b29980cd4808184ca5b0cf.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/11e/1000_1000_0/11ed1932ca6a8281737a45e400660c38.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/019/1000_1000_0/019a989501e0bcd3c7bdc5b0eef9b727.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/93d/1000_1000_0/93d2538985d00d3e2fb9a20e5eb2af63.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/a41/1000_1000_0/a411e60d80bacd407f152699ebddaaea.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/125/1000_1000_0/12508b3af92947381bb6f28ec10818cd.jpeg</picture>
+          <picture>https://static.galaxystore.ru/upload/resize_cache/iblock/16b/1000_1000_0/16b7764a773720756cadf7463c45b1d2.jpeg</picture>
+          <sapId>000000000000193914</sapId>
+                              <vendor>Samsung</vendor>
+          <vendorCode>SM-F936BZKCGLB</vendorCode>
+          <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+                                                      <parentVendorCode>Galaxy_Z_Fold4</parentVendorCode>
+          <model>Смартфон Samsung Galaxy Z Fold4 512 ГБ, черный фантом (SM-F936BZKCGLB)</model>
+          <barcode>8806094504613</barcode>
+          <badge textColor="#FFF" bgColor="#97D653">Trade-in</badge>
+          <param name="Модель">Galaxy Z Fold4 512 ГБ </param>
+          <param name="Цвет" hex="#000">черный</param>
+          <param name="Размер">различающийся параметр 2</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
